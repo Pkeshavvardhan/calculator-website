@@ -15,6 +15,7 @@ background-image: linear-gradient(green);
 height: 50px;
 margin: 15px;
 float: left;
-background-color: white;
+background-color: rgba(63, 38, 206, 0.801);
 border-radius: 60%;
 }
+
