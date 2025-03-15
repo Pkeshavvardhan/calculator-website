@@ -39,3 +39,49 @@ border-radius: 50%;
 .operator, .number{
     cursor: pointer;
 }
+
+#result{
+    height:100px;
+
+}
+
+#history{
+text-align: right;
+margin: 0 20px;
+height: 20px;
+padding-top: 10px;
+font-size: 15px;
+color: grey;
+}
+
+#output{
+    text-align: right;
+    margin: 10px 20px;
+    height: 60px;
+    font-size: 30px;
+}
+
+button:nth-child(4){
+    font-size: 20px;
+    background-color: aqua;
+}
+
+button:nth-child(8){
+    font-size: 20px;
+    background-color: green;
+}
+
+button:nth-child(12){
+    font-size: 20px;
+    background-color:lightblue;
+}
+
+button:nth-child(16){
+    font-size: 20px;
+    background-color: yellow;
+}
+
+button:nth-child(20){
+    font-size: 20px;
+    background-color: burlywood;
+}
